@@ -1,8 +1,1 @@
-i
-
-
-o
-u
-:wq
-Time to cap
-I am a barbie girl``
+This is the first project I am doing for Odin. It is a list of recipes.  
