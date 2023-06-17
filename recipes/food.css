@@ -1,0 +1,23 @@
+body {
+    max-width: 60%;
+    margin: 0 auto;
+    min-height: 100vh;
+    background-color: white;
+    padding: 1em 3em;
+   
+}
+
+html{
+   background-color: grey;
+}
+
+h1 {
+    text-align: center;
+    border-width: 2px 0px;
+    padding: 0.25em;
+    border-style: solid;
+}
+
+img {
+   width: 100%;
+}
