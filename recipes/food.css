@@ -21,3 +21,7 @@ h1 {
 img {
    width: 100%;
 }
+
+* {
+    text-align: justify;
+}
